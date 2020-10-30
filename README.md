@@ -1,4 +1,5 @@
-<img src="imagens/logo.png" alt="logo-barbearia"/>
+
+![alt text](https://github.com/images/logo.png "Logo")
 
 # Barbearia-HTML
 
