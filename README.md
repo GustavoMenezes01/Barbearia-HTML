@@ -1,5 +1,5 @@
 
-<img src="https://github.com/images/logo.png" alt="Logo"/>
+<img src="https://github.com/GustavoMenezes01/images/logo.png" alt="Logo"/>
 
 
 # Barbearia-HTML
