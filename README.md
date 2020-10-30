@@ -1,4 +1,4 @@
-<img src="imagens/logo.png" alt="My cool logo"/>
+<img src="imagens/logo.png" alt="logo-barbearia"/>
 
 # Barbearia-HTML
 
