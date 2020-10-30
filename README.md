@@ -1,5 +1,6 @@
 
-![alt text](https://github.com/images/logo.png "Logo")
+<img src="https://github.com/images/logo.png" alt="Logo")/>
+
 
 # Barbearia-HTML
 
